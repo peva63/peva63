@@ -1,0 +1,33 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-image: url("Iperspazio.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color: #333;
+    text-align: right;
+}
+
+h1 {
+    color: Red;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+nav ul li {
+    display: inline;
+    margin: 10px;
+}
+nav ul li a {
+    text-decoration: none;
+    color: white;
+    background-color: green;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+  
